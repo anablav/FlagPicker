@@ -3,7 +3,7 @@ Flag Picker
 
 This is a 24 hour challenge that I took for APPLE.
 
-<a href="https://imgflip.com/gif/2t282a"><img src="https://i.imgflip.com/2t282a.gif" title="Flag Picker" height="42" width="42"/></a>
+<a href="https://imgflip.com/gif/2t282a"><img src="https://i.imgflip.com/2t282a.gif" title="Flag Picker" width="400"/></a>
 
 Code Challenge: Flag Picker
 
