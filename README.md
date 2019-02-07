@@ -3,7 +3,7 @@ Flag Picker
 
 This is a 24 hour challenge that I took for APPLE.
 
-<iframe width="620" height="315" src="FlagPicker/FlagsReactApp-4.mov"> </iframe>
+<a href="https://imgflip.com/gif/2t27po"><img src="https://i.imgflip.com/2t27po.gif" title="Flag Picker"/></a>
 
 Code Challenge: Flag Picker
 
