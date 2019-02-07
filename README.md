@@ -3,7 +3,7 @@ Flag Picker
 
 This is a 24 hour challenge that I took for APPLE.
 
-<iframe width="620" height="315" src="https://github.com/anablav/FlagPicker/blob/master/FlagsReactApp-4.mov"> </iframe>
+<iframe width="620" height="315" src="FlagPicker/FlagsReactApp-4.mov"> </iframe>
 
 Code Challenge: Flag Picker
 
